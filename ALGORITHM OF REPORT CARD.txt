@@ -1,0 +1,31 @@
+------------ALGORITHM OF REPORT CARD GENERATOR---------------
+
+STEP 1 : Declare the variable which are required for marks, name, standard and section.
+STEP 2 : Use input function for taking input.
+STEP 3 : Calculate the total marks from input data.
+STEP 4 : Print "Total marks secured".
+STEP 5 : Run the condition for Grades :
+	   - Grade A 
+
+                   - Total marks secured between 450-500 
+
+         - Grade B 
+
+                 - Total marks secured between 400-449 
+
+         - Grade C 
+
+                  - Total marks secured between 350-399 
+
+         - Grade D 
+
+                  - Total marks secured between 300-349 
+
+         - Grade E 
+
+                  - Total marks secured between 200-299 
+
+         - Grade F 
+
+                  - Total marks secured below 200 but greater than equal to 0
+STEP 6 : Print the Grade through output function.
